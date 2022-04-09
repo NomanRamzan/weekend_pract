@@ -2,3 +2,15 @@ h1{
     color: red;
     text-align: center;
 }
+
+.name{
+    color: orange;
+}
+
+.student{
+    color: blueviolet;
+}
+p{
+    width: 25%;
+    color: dimgray;
+}
