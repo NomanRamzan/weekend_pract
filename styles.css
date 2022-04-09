@@ -4,13 +4,15 @@ h1{
 }
 
 .name{
+    text-align: center;
     color: orange;
 }
 
 .student{
+    text-align: center;
     color: blueviolet;
 }
 p{
-    width: 25%;
+    text-align: center;
     color: dimgray;
 }
