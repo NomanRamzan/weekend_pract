@@ -1,9 +1,14 @@
 # weekend_pract
+
 **Weekend __Practice__ on git &amp; github**
+
 __Project Name__
+
 ***Description the project.***
 
+
 >Built With
+
 Major languages
 Frameworks
 Technologies used
