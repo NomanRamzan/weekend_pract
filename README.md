@@ -9,7 +9,7 @@ __Project Name__
 
 >Built With
 
-Major languages
+>Major languages
 Frameworks
 Technologies used
 Live Demo (if available)
